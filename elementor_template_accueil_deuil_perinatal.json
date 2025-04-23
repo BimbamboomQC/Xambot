@@ -1,0 +1,30 @@
+{
+  "template_name": "Accueil Deuil P\u00e9rinatal",
+  "layout": "boxed",
+  "style": {
+    "colors": {
+      "background": "#FAF3F0",
+      "accent": "#C7DAD4",
+      "text_primary": "#333333",
+      "text_secondary": "#666666"
+    },
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Lato",
+      "size_base": "16px"
+    },
+    "spacing": {
+      "container_padding": "40px",
+      "section_margin": "60px"
+    }
+  },
+  "sections": [
+    "Hero avec titre accrocheur, description, bouton CTA",
+    "Grille de 3 articles r\u00e9cents (image, citation, bouton)",
+    "Bloc audio/vid\u00e9o de r\u00e9sum\u00e9 de recherche",
+    "T\u00e9moignages (p\u00e8re et m\u00e8re) dans un carousel ou grid",
+    "Dictionnaire / champ de recherche / IA",
+    "\u00c0 propos / mission personnelle",
+    "Newsletter ou appel \u00e0 contribution"
+  ]
+}
